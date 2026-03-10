@@ -1,0 +1,152 @@
+# Tyler, The Creator – Darling, I
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Whatever you do,
+don't ever tell no bitch
+you love her
+If you don't mean it,
+don't tell us
+(Check)
+Darling, I keep
+(Keep falling in love)
+Darling, I keep
+(Keep falling in love)
+Da-da, da, keep
+(Keep falling in love)
+Forever is too long
+(C'mon)
+Ooh, I got a problem,
+I don't know if I can change
+Ooh, they wanna turn me down,
+but it's just my brain
+I can't sign the dotted line
+Just how long is forever?
+(It's too long)
+Darling, I keep
+(Keep falling in love)
+Darling, I keep
+(Keep falling in love)
+Da-da, da, keep
+(Keep falling in love)
+Forever is too long
+Yuh, let that fire, check it, yo
+I drive my Bimmer in the
+summer when I'm ready to drift
+LaFerrari handle better,
+and it's pretty as shit
+Feel safe in the Rolls,
+big boy when I drive
+Love 'em all for
+different reasons at the
+same damn time
+See, monogamy,
+that shit is not for me
+One option for everybody,
+don't you lie to me
+Too many grooves,
+I'm too curious to try to be
+Hidin' things,
+feelin' shame built inside
+of me
+'Cause honestly,
+(Psh)
+T is not perfect
+So how can I get everything
+from one person?
+I'm at the altar,
+but I'm still searchin'
+I'm only human,
+if it ain't work,
+things change
+And nothing stay the same,
+I believe
+Hmm, they been lettin' go,
+it's a beautiful thing
+Perfect for the time being,
+I ain't do nothin' wrong
+Life is short,
+but forever is so goddamn long
+I like a long time,
+I'm on my own time
+I love this girl though,
+I hit the gold mine
+I'm thinkin' new crib,
+I'm thinkin' two kids
+Until I get infatuated
+with a new bitch
+But when that grey hair
+finally come
+(Uh-huh)
+At least I felt somethin'
+if I ain't find the one
+(Yuh)
+Nobody could fulfill me
+like this music shit does
+So I'll be lonely with
+these Grammys when it's
+all said and done, c'mon
+(Oh)
+Darling, I keep
+(Keep falling in love)
+Baby, I
+Darling, I keep
+(Keep falling in love)
+Da-da, da, keep
+(Keep falling in love)
+Forever is too long
+(Keep falling in love)
+Yeah, baby
+Keep falling
+(Keep falling)
+Keep falling
+(Darling, I)
+Keep falling
+(Keep falling)
+Keep falling
+(I keep falling down)
+Keep falling, keep falling
+Come and catch me please
+(Oh, baby)
+Everybody's different, you know
+It's not just sex
+I get different things
+from different people
+And I want you to
+explore it too
+(Uh)
+Have those moments
+and experiences
+(Uh)
+I don't own you
+(Da-da-da-da-da)
+It's not fair just to be
+stuck with me
+Darling
+(Darling)
+I keep falling in love
+Darling
+(Darling)
+I keep falling forever
+(Forever)
+Da-da-da-da
+I'm falling, I'm falling
+Keep falling
+(Keep falling)
+Keep falling
+(Darling, I)
+Keep falling
+(Keep falling)
+Keep falling
+(I keep falling down)
+Keep falling, keep falling
+Come and catch me please
+(Forever)
+Keep falling, keep falling
+(Forever is too long)
+Keep falling, keep falling
+(Forever is too long)
+Keep falling, keep falling
+Transparency is key, be honest
+```
