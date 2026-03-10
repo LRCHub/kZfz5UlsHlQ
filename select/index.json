@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Darling, I",
+  "base_artist": "Tyler, The Creator",
+  "createdAt": "2026-03-10T07:29:01.524667Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Darling I Love You",
+      "artist": "Elio e le Storie Tese",
+      "has_synced": false,
+      "path": "select/01_Darling_I_Love_You_Elio_e_le_Storie_Tese.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Darling, I Need You Now",
+      "artist": "Sam Cooke",
+      "has_synced": false,
+      "path": "select/02_Darling,_I_Need_You_Now_Sam_Cooke.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Darling, I Want To Destroy You",
+      "artist": "AFI",
+      "has_synced": true,
+      "path": "select/03_Darling,_I_Want_To_Destroy_You_AFI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Little Darling (I Need You)",
+      "artist": "The Doobie Brothers",
+      "has_synced": true,
+      "path": "select/04_Little_Darling_(I_Need_You)_The_Doobie_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Little Darling (I Need You)",
+      "artist": "Doobie Brothers",
+      "has_synced": true,
+      "path": "select/05_Little_Darling_(I_Need_You)_Doobie_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Little Darling (I Need You)",
+      "artist": "The Doobie Brothers",
+      "has_synced": true,
+      "path": "select/06_Little_Darling_(I_Need_You)_The_Doobie_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Little Darling (I Need You)",
+      "artist": "Marvin Gaye",
+      "has_synced": true,
+      "path": "select/07_Little_Darling_(I_Need_You)_Marvin_Gaye.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Darling, I Love You",
+      "artist": "AJJ",
+      "has_synced": true,
+      "path": "select/08_Darling,_I_Love_You_AJJ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Darling, I Hug a Pillow",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/09_Darling,_I_Hug_a_Pillow_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Darling I Do",
+      "artist": "Zerox feat. Landon Pigg & Lucy Schwartz",
+      "has_synced": false,
+      "path": "select/10_Darling_I_Do_Zerox_feat._Landon_Pigg_&_Lucy_Schwartz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Little Darling I Need You",
+      "artist": "Marvin Gaye",
+      "has_synced": true,
+      "path": "select/11_Little_Darling_I_Need_You_Marvin_Gaye.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Darling I Need You",
+      "artist": "Bad Brains",
+      "has_synced": false,
+      "path": "select/12_Darling_I_Need_You_Bad_Brains.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Little Darling (I Need You)",
+      "artist": "Marvin Gaye",
+      "has_synced": true,
+      "path": "select/13_Little_Darling_(I_Need_You)_Marvin_Gaye.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Darling, I",
+      "artist": "Tyler, The Creator",
+      "has_synced": false,
+      "path": "select/pl_01_Darling,_I_Tyler,_The_Creator.txt"
+    }
+  ]
+}
